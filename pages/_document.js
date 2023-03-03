@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'encloud.info',
-    description: 'My personal blog.',
+    description: 'a Coder, Console & PC Gamer, Tech & Sci-fi Lover.',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
   }
 

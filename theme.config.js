@@ -1,3 +1,4 @@
+import Giscus from './components/giscus'
 const YEAR = new Date().getFullYear()
 
 export default {
@@ -17,5 +18,8 @@ export default {
         }
       `}</style>
     </small>
+  ),
+  postFooter: (
+    <Giscus />
   )
 }
