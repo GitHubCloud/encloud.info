@@ -7,7 +7,7 @@ author: Cloud
 
 # Interesting ChatGPT chat history
 
-<!-- ![Hello World](https://raw.githubusercontent.com/GitHubCloud/GitHubCloud/main/helloworld.gif) -->
+![ChatGPT](/images/chatgpt.jpeg)
 
 - Help my 9-year-old niece understand Rust ownership: [Rust Ownership](https://sharegpt.com/c/odiqVsY)
 
