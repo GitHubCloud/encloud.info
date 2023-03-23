@@ -15,6 +15,8 @@ author: Cloud
 
 - Wrote README file for open-source project: [README](https://sharegpt.com/c/sGvdR5V)
 
-- Help me to create a Wechat Mini-Program: [Mini-Program](https://chat.openai.com/chat/8fcb714c-76d6-4391-9f23-ac2a9b9a371d)
+- Help me to create a Wechat Mini-Program: [Mini-Program](https://sharegpt.com/c/1yqgUBs)
 
 - Help me polish welcome post of this blog: [polish post](https://sharegpt.com/c/lUwGZNL)
+
+- Ways to attack unprotected Redis server: [Redis Attck](https://sharegpt.com/c/ATmn6O1)
